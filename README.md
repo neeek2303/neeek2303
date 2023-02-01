@@ -17,12 +17,3 @@ https://user-images.githubusercontent.com/60851662/216146492-7a8526f6-2086-46e5-
 # Projects:
 ### 1. [MegaPortraits](https://samsunglabs.github.io/MegaPortraits/)
 
-
- 
-
-## 📈 Github Stats
-
-
-<!--END_SECTION:waka-->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeek2303&show_icons=true" alt="neeek2303" />
