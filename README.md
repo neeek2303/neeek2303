@@ -3,7 +3,7 @@
 
 <h3 align="center"> Base in London💂, but originally form Siberia❄️🏔 (Russia). </h3>
 
-I love making neural networks smart 🧠➡️🤖, drinking tea 🫖 and going to the gym 🏋️‍♂️.
+I love making neural networks smart 🧠➡️🤖, drinking tea 🍵 and going to the gym 🏋️‍♂️.
 
 [![CV](https://img.shields.io/badge/CV-Nikita%20Drobyshev-14b420)](http://nikitadrobyshev.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita_Drobyshev-1786b1)](https://www.linkedin.com/in/nikita-drobyshev-039569149/)
