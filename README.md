@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nikita Drobyshev <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h3 align="center"> I'm a PhD student 👨‍🔬 at Imperial College London and ML Engineer 💻 at Meta </h3>
 
-<h3 align="center"> Based in London💂, but originally form Siberia❄️🏔 (Russia). </h3>
+<h3 align="center"> Based in London💂 </h3>
 
 I love making neural networks smart 🧠➡️🤖, drinking tea 🍵 and going to the gym 🏋️‍♂️.
 
