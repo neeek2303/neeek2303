@@ -15,5 +15,5 @@ https://user-images.githubusercontent.com/60851662/216146492-7a8526f6-2086-46e5-
 
 <!--START_SECTION:waka-->
 # Projects:
-### 1. [MegaPortraits](https://samsunglabs.github.io/MegaPortraits/)
+### 1. [MegaPortraits](https://neeek2303.github.io/MegaPortraits/)
 
